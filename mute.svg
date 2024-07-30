@@ -1,0 +1,11 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="white" stroke="black" stroke-width="10" />
+
+  <!-- Speaker Icon -->
+  <path d="M70 80 L110 50 L110 150 L70 120 Z" fill="black" />
+  
+  <!-- Diagonal Line (Mute) -->
+  <line x1="60" y1="60" x2="140" y2="140" stroke="black" stroke-width="10" />
+  <line x1="140" y1="60" x2="60" y2="140" stroke="black" stroke-width="10" />
+</svg>

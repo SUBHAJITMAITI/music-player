@@ -1,0 +1,7 @@
+<svg width="100" height="50" viewBox="0 0 100 50" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="50" rx="10" ry="10" style="fill: #007BFF;" />
+  <text x="20" y="30" fill="white" font-size="20" font-family="Arial" dominant-baseline="middle" text-anchor="middle">Next</text>
+  <polygon points="70,15 85,25 70,35" style="fill: white;" />
+</svg>
+
+

@@ -1,0 +1,9 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="lightgreen" stroke="green" stroke-width="10" />
+  
+  <!-- Sound Icon -->
+  <path d="M60 80 L100 50 L100 150 L60 120 Z" fill="green" />
+  <path d="M100 50 L130 20 L130 180 L100 150 Z" fill="darkgreen" />
+  <path d="M130 20 L160 0 L160 200 L130 180 Z" fill="lightgreen" />
+</svg>
