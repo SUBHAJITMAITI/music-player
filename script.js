@@ -1,5 +1,5 @@
-let s = ["audio.mp3", "kabhi1.mp3", "Dipannita.mp3", "Thoda thoda pyaar.mp3", "Tum Hi Ho.mp3", "Bengali.mp3","kk.mp3","my.mp3","Arijit.mp3"];
-let q = ["https://media.istockphoto.com/id/2101175462/photo/trekking-path-in-mountains-at-summer-sunset.jpg?s=1024x1024&w=is&k=20&c=EuwAQgptF73BKCwFbMUUyWgZfDl8oPTLpwOow2E-Ueo=", "https://images.pexels.com/photos/670720/pexels-photo-670720.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", "https://images.pexels.com/photos/2865901/pexels-photo-2865901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", "https://images.pexels.com/photos/576494/pexels-photo-576494.jpeg", "https://images.pexels.com/photos/1510149/pexels-photo-1510149.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", "https://images.pexels.com/photos/1280162/pexels-photo-1280162.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://imgs.search.brave.com/_AYeE8lS7t0pTekwaAgQSckOkT84SbmDFR2IB5ZuCjE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8wLzA5L0tL/XyUyODEyNSUyOS5q/cGcvNTEycHgtS0tf/JTI4MTI1JTI5Lmpw/Zw","subha_1.png","https://static.toiimg.com/thumb/imgsize-23456,msid-92037952,width-600,resizemode-4/92037952.jpg"];
+let s = ["Labon.mp3", "Bekhayali.mp3", "Dipannita.mp3", "Thoda thoda pyaar.mp3", "Tum Hi Ho.mp3", "avijog.mp3","kk1.mp3","Hasi.mp3","Pehle.mp3","Deewana.mp3","Toota.mp3","Lo.mp3","Galliyan.mp3","Kabhi1.mp3","Hawa.mp3","du.mp3","Saajna.mp3","Saiyaara.mp3","Mann.mp3","Brishti.mp3","Lokkhi.mp3","aviman.mp3","prithibir.mp3","Sajni.mp3","Piya.mp3","Sang.mp3","Aawara.mp3","Jeene.mp3","Halka.mp3","Jane.mp3","Amar.mp3","Jisan.mp3","KABHI.mp3","Sun.mp3","Is.mp3","ashi.mp3"];
+let q = ["https://media.istockphoto.com/id/2101175462/photo/trekking-path-in-mountains-at-summer-sunset.jpg?s=1024x1024&w=is&k=20&c=EuwAQgptF73BKCwFbMUUyWgZfDl8oPTLpwOow2E-Ueo=", "https://images.pexels.com/photos/670720/pexels-photo-670720.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", "https://images.pexels.com/photos/2865901/pexels-photo-2865901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", "https://images.pexels.com/photos/576494/pexels-photo-576494.jpeg", "https://images.pexels.com/photos/1510149/pexels-photo-1510149.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", "https://images.pexels.com/photos/1280162/pexels-photo-1280162.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://imgs.search.brave.com/_AYeE8lS7t0pTekwaAgQSckOkT84SbmDFR2IB5ZuCjE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8wLzA5L0tL/XyUyODEyNSUyOS5q/cGcvNTEycHgtS0tf/JTI4MTI1JTI5Lmpw/Zw","subha_1.png","https://static.toiimg.com/thumb/imgsize-23456,msid-92037952,width-600,resizemode-4/92037952.jpg","https://images.unsplash.com/photo-1613281512736-55bd4a24f0a6?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://media.istockphoto.com/id/1204977605/photo/concept-of-teenage-love-or-affection-young-man-proposing-to-smiling-excited-girlfriend.jpg?s=1024x1024&w=is&k=20&c=E12noAXlsTrMz6aondcLwuMpmbTAq10ibhjxhuq6WX8=","https://images.unsplash.com/photo-1505428215601-90f0007b9e83?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.pexels.com/photos/1131575/pexels-photo-1131575.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://images.pexels.com/photos/3889785/pexels-photo-3889785.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://images.pexels.com/photos/1024963/pexels-photo-1024963.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://images.pexels.com/photos/2739305/pexels-photo-2739305.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://images.pexels.com/photos/1449670/pexels-photo-1449670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://images.pexels.com/photos/1378723/pexels-photo-1378723.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://images.pexels.com/photos/1417255/pexels-photo-1417255.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://images.pexels.com/photos/258421/pexels-photo-258421.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://images.pexels.com/photos/792726/pexels-photo-792726.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://images.pexels.com/photos/1194036/pexels-photo-1194036.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://media.istockphoto.com/id/650097030/photo/happy-couple-talking.jpg?s=1024x1024&w=is&k=20&c=qIjtzsANzCPZHaJxmP0DOwQ1woPu5OFiOoM_ByPz0s4=","https://cdn.pixabay.com/photo/2023/03/16/02/10/couple-7855777_1280.jpg","https://images.pexels.com/photos/694458/pexels-photo-694458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://images.pexels.com/photos/4069292/pexels-photo-4069292.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://images.pexels.com/photos/1879877/pexels-photo-1879877.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://images.pexels.com/photos/3289156/pexels-photo-3289156.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://imgs.search.brave.com/Ff5_WvuJPKAYEXyYVy91cULU-xV8OzZ_Fzc4nAkg3ls/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9i/L2JhL0hpcmFuX2lu/X0NvbmZlcmVuY2Uu/anBn","https://imgs.search.brave.com/pii5kawuHs0kGlhkbdpVlgZQEnYyqcoEsX-LnlEpedI/rs:fit:500:0:0:0/g:ce/aHR0cDovL3N0YXJz/dW5mb2xkZWQuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE3/LzA3L0Rldi5qcGc","https://images.pexels.com/photos/1666779/pexels-photo-1666779.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://images.pexels.com/photos/1134204/pexels-photo-1134204.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://images.pexels.com/photos/805002/pexels-photo-805002.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://images.pexels.com/photos/247908/pexels-photo-247908.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://images.pexels.com/photos/1066801/pexels-photo-1066801.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","https://images.pexels.com/photos/9266931/pexels-photo-9266931.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"]
 function convertSecondsToMinutesAndSeconds(seconds) {
     // Calculate minutes and remaining seconds
     const minutes = Math.floor(seconds / 60);
@@ -40,7 +40,321 @@ currentsong.addEventListener("timeupdate", function () {
     b.innerHTML = `${h}`
 
 });
+rightunder10.addEventListener("click", function () {
+    i = 35
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
 
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunder9.addEventListener("click", function () {
+    i = 34
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunder8.addEventListener("click", function () {
+    i = 33
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunder7.addEventListener("click", function () {
+    i = 32
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunder6.addEventListener("click", function () {
+    i = 31
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunder5.addEventListener("click", function () {
+    i = 30
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunder4.addEventListener("click", function () {
+    i = 29
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunder3.addEventListener("click", function () {
+    i = 28
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunder2.addEventListener("click", function () {
+    i = 27
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunder1.addEventListener("click", function () {
+    i = 26
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunderz.addEventListener("click", function () {
+    i = 25
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightundery.addEventListener("click", function () {
+    i = 24
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunderw.addEventListener("click", function () {
+    i = 23
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunderv.addEventListener("click", function () {
+    i = 22
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunderu.addEventListener("click", function () {
+    i = 21
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightundert.addEventListener("click", function () {
+    i = 20
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunders.addEventListener("click", function () {
+    i = 19
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunderr.addEventListener("click", function () {
+    i = 18
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunderq.addEventListener("click", function () {
+    i = 17
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunderp.addEventListener("click", function () {
+    i = 16
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightundero.addEventListener("click", function () {
+    i = 15
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
 rightunderx.addEventListener("click", function () {
     i = 0
     play(s[i]);
@@ -179,6 +493,96 @@ rightunderh.addEventListener("click", function () {
     }
 });
 
+rightunderi.addEventListener("click", function () {
+    i = 9
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunderj.addEventListener("click", function () {
+    i = 10
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunderk.addEventListener("click", function () {
+    i = 11
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunderl.addEventListener("click", function () {
+    i = 12
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightunderm.addEventListener("click", function () {
+    i = 13
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
+rightundern.addEventListener("click", function () {
+    i = 14
+    play(s[i]);
+    let d = q[i];
+    let a = document.body.getElementsByClassName("left2under")[0];
+    start.src = "play.svg"
+
+    a.innerHTML = `<img src="${d}">`;
+    let r = document.body.getElementsByClassName("priya")[0]
+    let g = document.body.getElementsByClassName("rightunder2")[i].firstElementChild.innerHTML
+    console.log(g)
+    if (r) {
+        r.innerHTML = `<p>${g} </p>`;
+    }
+});
 
 
 let k = document.body.getElementsByClassName("sovan")[0];
