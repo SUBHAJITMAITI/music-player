@@ -7,6 +7,35 @@ html {
   margin: 0;
   padding: 0;
 }
+#unic1 {
+
+cursor:wait;
+animation: subha3 1s linear 1s infinite ;
+}
+@keyframes subha3{
+to{
+background-color: blue;
+}
+from{
+border-color: aqua;
+}
+
+}
+
+#unic2 {
+  cursor: wait;
+  animation: subha1 1s linear 1s infinite ;
+}
+@keyframes subha1{
+  to{
+  background-color: aqua;
+  }
+  from{
+  border-color: blue;
+  }
+  
+  }
+
 
 .name {
   height: 5vh;

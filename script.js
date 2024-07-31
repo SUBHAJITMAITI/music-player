@@ -11,10 +11,21 @@ function convertSecondsToMinutesAndSeconds(seconds) {
     return `${minutes}:${formattedSeconds}`;
 }
 
-// let w=document.body.getElementsByClassName("name")[0].firstElementChild
-// let l=prompt("enter your name")
-// w.innerHTML="hello "+l
+unic1.addEventListener("click",()=>{
+unic1.style.background="red"
 
+})
+unic2.addEventListener("click",()=>{
+    unic2.style.background="red"
+    
+    })
+
+
+
+let w=document.body.getElementsByClassName("name")[0].firstElementChild
+let l=prompt("enter your name short name")
+w.innerHTML="hello "+l
+alert(` from now, ${l} you are my new friend=>SUBHA, let's go we listen your favourite song`)
 let i = 0
 let currentsong = new Audio(s[0]);
 
