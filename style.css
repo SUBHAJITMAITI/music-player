@@ -10,7 +10,7 @@ html {
 #unic1 {
 
 cursor:wait;
-animation: subha3 1s linear 1s infinite ;
+animation: subha3  linear 1s infinite ;
 }
 @keyframes subha3{
 to{
@@ -24,7 +24,7 @@ border-color: aqua;
 
 #unic2 {
   cursor: wait;
-  animation: subha1 1s linear 1s infinite ;
+  animation: subha1  linear 1s infinite ;
 }
 @keyframes subha1{
   to{

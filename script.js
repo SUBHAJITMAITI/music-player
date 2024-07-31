@@ -23,7 +23,7 @@ unic2.addEventListener("click",()=>{
 
 
 let w=document.body.getElementsByClassName("name")[0].firstElementChild
-let l=prompt("enter your name short name")
+let l=prompt("enter your  short name")
 w.innerHTML="hello "+l
 alert(` from now, ${l} you are my new friend=>SUBHA, let's go we listen your favourite song`)
 let i = 0
